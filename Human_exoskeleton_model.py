@@ -1,4 +1,4 @@
-""" Neural Network Architecture defination for Exoskeleton, Human and Muscle"""
+""" Neural network architecture definition for the exoskeleton, human and muscles"""
 
 import torch.nn as nn
 import numpy as np
